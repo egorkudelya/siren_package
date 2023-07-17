@@ -1,0 +1,3 @@
+[submodule "Sources/siren_core"]
+	path = Sources/siren_core
+	url = https://github.com/egorkudelya/siren_core.git
